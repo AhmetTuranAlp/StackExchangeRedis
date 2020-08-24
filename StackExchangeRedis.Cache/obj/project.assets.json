@@ -940,11 +940,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
+      "projectUniqueName": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
       "projectName": "StackExchangeRedis.Cache",
-      "projectPath": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
+      "projectPath": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
       "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\obj\\",
+      "outputPath": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

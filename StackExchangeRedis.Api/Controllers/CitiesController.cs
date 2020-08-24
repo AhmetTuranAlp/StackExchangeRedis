@@ -118,20 +118,13 @@ namespace StackExchangeRedis.Api.Controllers
             {
                 if (city != null && !string.IsNullOrEmpty(countryName))
                 {
-                    if (_cacheService.Any(countryName))
-                    {
-                        List<City> cities = _cacheService.Get<List<City>>(countryName);
-                        if (cities == null)
-                            cities = new List<City>();
+                    List<City> cities = _cacheService.Get<List<City>>(countryName);
+                    if (cities == null)
+                        cities = new List<City>();
 
-                        cities.Add(city);
-                        _cacheService.Add(countryName, cities, 5);
-                        return new ListResponse<City>() { IsSuccess = true, Message = "Transaction Successful", Result = cities, TotalCount = cities.Count(), Exception = null };
-                    }
-                    else
-                    {
-                        return new ListResponse<City>() { IsSuccess = false, Message = "Parameter Null", Result = new List<City>(), TotalCount = 0, Exception = null };
-                    }
+                    cities.Add(city);
+                    _cacheService.Add(countryName, cities, 5);
+                    return new ListResponse<City>() { IsSuccess = true, Message = "Transaction Successful", Result = cities, TotalCount = cities.Count(), Exception = null };
                 }
                 else
                 {

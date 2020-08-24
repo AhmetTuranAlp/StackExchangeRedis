@@ -6,3 +6,11 @@ C:\Users\ahmet\source\repos\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debu
 C:\Users\ahmet\source\repos\StackExchangeRedis\StackExchangeRedis.Cache\bin\Debug\netcoreapp3.1\StackExchangeRedis.Cache.pdb
 C:\Users\ahmet\source\repos\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debug\netcoreapp3.1\StackExchangeRedis.Cache.dll
 C:\Users\ahmet\source\repos\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debug\netcoreapp3.1\StackExchangeRedis.Cache.pdb
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\bin\Debug\netcoreapp3.1\StackExchangeRedis.Cache.deps.json
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\bin\Debug\netcoreapp3.1\StackExchangeRedis.Cache.dll
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\bin\Debug\netcoreapp3.1\StackExchangeRedis.Cache.pdb
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debug\netcoreapp3.1\StackExchangeRedis.Cache.csprojAssemblyReference.cache
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debug\netcoreapp3.1\StackExchangeRedis.Cache.AssemblyInfoInputs.cache
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debug\netcoreapp3.1\StackExchangeRedis.Cache.AssemblyInfo.cs
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debug\netcoreapp3.1\StackExchangeRedis.Cache.dll
+D:\Yazılım\GitHup-Projeler\StackExchangeRedis\StackExchangeRedis.Cache\obj\Debug\netcoreapp3.1\StackExchangeRedis.Cache.pdb

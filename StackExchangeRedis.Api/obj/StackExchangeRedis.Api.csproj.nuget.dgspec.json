@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj": {}
+    "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj": {
+    "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj",
+        "projectUniqueName": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj",
         "projectName": "StackExchangeRedis.Api",
-        "projectPath": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj",
+        "projectPath": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Api\\StackExchangeRedis.Api.csproj",
         "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Api\\obj\\",
+        "outputPath": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj"
+              "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj": {
+                "projectPath": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj": {
+    "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
+        "projectUniqueName": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
         "projectName": "StackExchangeRedis.Cache",
-        "projectPath": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
+        "projectPath": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\StackExchangeRedis.Cache.csproj",
         "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\source\\repos\\StackExchangeRedis\\StackExchangeRedis.Cache\\obj\\",
+        "outputPath": "D:\\Yazılım\\GitHup-Projeler\\StackExchangeRedis\\StackExchangeRedis.Cache\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
