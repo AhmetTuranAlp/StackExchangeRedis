@@ -2,6 +2,8 @@
 .Net Core Web API ile StackExchange.Redis kullanılarak cache işlemlerinin yapıldığı basit bir demo. Uygulamada ülke ve ülkelere ait şehir bilgileri üzerinden redis ile cacheleme yapılmaktadır.
 
 # Endpoint
+Örnek endpointler aşağıdaki gibidir.
+
 GetCountry => /api/cities/GetCountry/countryName=turkey
 
 GetCity => /api/cities/GetCity/countryName=turkey&cityId=34
