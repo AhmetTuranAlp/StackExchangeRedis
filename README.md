@@ -1,6 +1,14 @@
 # StackExchangeRedis
 .Net Core Web API ile StackExchange.Redis kullanılarak cache işlemlerinin yapıldığı basit bir demo. Uygulamada ülke ve ülkelere ait şehir bilgileri üzerinden redis ile cacheleme yapılmaktadır.
 
+# Endpoint
+GetCountry => /api/cities/GetCountry/countryName=turkey
+
+GetCity => /api/cities/GetCity/countryName=turkey&cityId=34
+
+SetCity => /api/cities/SetCity?countryName=turkey (FromBody olarak City nesnesi gönderilmesi gerekmektedir.)
+
+
 # Redis Hakkında
 Redis(Remote Dictionary Server), en temel tanımıyla anahtar-değer (key-value) mantığıyla çalışan bir cache uygulaması. Unique bir Id’ye (key) karşılık bir değer (value) tutar. Veriyi RAM’de tutuyor olması sunucunun kapanması ile verinin tümden yok olması anlamına geliyor. Tabi bunu diske yazmanız mümkün fakat en temel haliyle Redis, veriyi RAM’de kullanmak için tasarlandı.
 
