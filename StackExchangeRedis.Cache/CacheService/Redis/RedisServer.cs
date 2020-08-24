@@ -14,7 +14,7 @@ namespace StackExchangeRedis.Cache.CacheService.Redis
         {
             CreateRedisConfigurationString(configuration);
 
-            _connectionMultiplexer = ConnectionMultiplexer.Connect(configurationString);
+            _connectionMultiplexer = ConnectionMultiplexer.Connect(configurationString + ",allowAdmin=true");
             _database = _connectionMultiplexer.GetDatabase(_currentDatabaseId);
         }
 
